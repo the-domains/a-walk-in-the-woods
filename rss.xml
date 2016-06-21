@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A walk in the woods]]></title>
+        <description><![CDATA[A walk in the woods]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 21 Jun 2016 10:08:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Symonds Yat]]></title>
+            <description><![CDATA[<article><h1>Symonds Yat</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0624b53dc7fbd5013dffb4dab962f46b/noop.jpg?input=https%3A%2F%2Fc7.staticflickr.com%2F6%2F5677%2F22669560742_8207c1d03e_b.jpg"></article>]]></description>
+            <link>https://flic.kr/s/aHskoKDP9Y</link>
+            <guid isPermaLink="false">6c32ba9b-7c08-4254-ab0a-49389c1f6fda</guid>
+            <pubDate>Tue, 21 Jun 2016 10:08:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
